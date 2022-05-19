@@ -1,5 +1,5 @@
-# Ted-Talk-Views-Prediction-Project!
-#<font size="+2" color='#053c96'><b> About this Project </b></font>
+#Ted-Talk-Views-Prediction-Project!
+#<font size="+2" color='#053c96'><b>About this Project</b></font>
 
 This is a Machine Learning Capstone Project, which is part of AlmaBetter's Data Science Pro Program Curriculum.
 
@@ -10,7 +10,7 @@ This is a Machine Learning Capstone Project, which is part of AlmaBetter's Data 
 
 
 
-#<font size="+2" color='#053c96'><b> Problem Statement </b></font>
+#<font size="+2" color='#053c96'><b>Problem Statement</b></font>
 
 TED is devoted to spreading powerful ideas on just about any topic. These datasets contain over 4,000 TED talks including transcripts in many languages.
 
@@ -19,4 +19,4 @@ Founded in 1984 by Richard Salman as a nonprofit organization that aimed at brin
 
 **The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.**
 
-[TED-Talks-for-Small-Business-and-Entrepreneurs](https://user-images.githubusercontent.com/87125043/169231039-420bac0a-c5bd-4d28-aafd-ac78717fa3c6.jpg)
+![TED-Talks-for-Small-Business-and-Entrepreneurs](https://user-images.githubusercontent.com/87125043/169231039-420bac0a-c5bd-4d28-aafd-ac78717fa3c6.jpg)
