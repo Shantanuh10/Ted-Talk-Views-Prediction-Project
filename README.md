@@ -1,5 +1,7 @@
 # **Ted Talk Views Prediction Project!** 
 
+![TED-Talks-for-Small-Business-and-Entrepreneurs](https://user-images.githubusercontent.com/87125043/169231039-420bac0a-c5bd-4d28-aafd-ac78717fa3c6.jpg)
+
 # About this Project 
 
 This is a Machine Learning Capstone Project, which is part of AlmaBetter's Data Science Pro Program Curriculum.
@@ -13,4 +15,3 @@ Founded in 1984 by Richard Salman as a nonprofit organization that aimed at brin
 
 The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.
 --- 
-![TED-Talks-for-Small-Business-and-Entrepreneurs](https://user-images.githubusercontent.com/87125043/169231039-420bac0a-c5bd-4d28-aafd-ac78717fa3c6.jpg)
