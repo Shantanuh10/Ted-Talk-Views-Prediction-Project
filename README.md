@@ -1,5 +1,5 @@
-#Ted-Talk-Views-Prediction-Project!
-#<font size="+2" color='#053c96'><b>About this Project</b></font>
+# **Ted-Talk-Views-Prediction-Project!** 
+# About this Project 
 
 This is a Machine Learning Capstone Project, which is part of AlmaBetter's Data Science Pro Program Curriculum.
 
@@ -10,7 +10,7 @@ This is a Machine Learning Capstone Project, which is part of AlmaBetter's Data 
 
 
 
-#<font size="+2" color='#053c96'><b>Problem Statement</b></font>
+# Problem Statement
 
 TED is devoted to spreading powerful ideas on just about any topic. These datasets contain over 4,000 TED talks including transcripts in many languages.
 
