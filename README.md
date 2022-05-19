@@ -1,14 +1,8 @@
-# **Ted-Talk-Views-Prediction-Project!** 
+# **Ted Talk Views Prediction Project!** 
+
 # About this Project 
 
 This is a Machine Learning Capstone Project, which is part of AlmaBetter's Data Science Pro Program Curriculum.
-
-
-
----
-
-
-
 
 # Problem Statement
 
