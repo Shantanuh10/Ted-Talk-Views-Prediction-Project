@@ -1,4 +1,4 @@
-# **Ted Talk Views Prediction Project!** 
+# **Ted Talk Views Prediction - Project!** 
 
 ![TED-Talks-for-Small-Business-and-Entrepreneurs](https://user-images.githubusercontent.com/87125043/169231039-420bac0a-c5bd-4d28-aafd-ac78717fa3c6.jpg)
 
